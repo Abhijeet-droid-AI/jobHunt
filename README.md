@@ -1,4 +1,4 @@
-The Job Portal is a full-stack web application built using the MERN (MongoDB, Express, React, Node.js) stack.
+The Job Hunt is a portal based full-stack web application built using the MERN (MongoDB, Express, React, Node.js) stack.
 It allows job seekers to search and apply for job listings, and employers to post and manage job listings.
 Some key features of the Job Portal app include:
 
