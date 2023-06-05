@@ -8,7 +8,7 @@ const fs = require('fs');
 // MongoDB
 mongoose
 	.connect(
-		'mongodb+srv://abhijeet123:abhijeet123@abhijeetcluster.fo50rw0.mongodb.net/jobPortal',
+		'MONGODB_URI',
 		{
 			useNewUrlParser: true,
 			useUnifiedTopology: true,
